@@ -4,3 +4,9 @@
 *.jar
 *.war
 *.ear
+
+#ignore IDE based path/files
+build.xml
+build/
+dist/
+nbproject/
